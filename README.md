@@ -9,8 +9,8 @@ Data used:- <br>
 1] https://www.kaggle.com/datasets/jackojay04/air-quality-changes-in-the-us <br>
 2] https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update
 
-Tools used:- 
-R - Studio -> for statistical analysis
-Python     -> for data cleaning and merging
-Tableau    -> Data Visualization and Interactive Dashboards
+Tools used:- <br>
+R - Studio -> for statistical analysis <br>
+Python     -> for data cleaning and merging <br>
+Tableau    -> Data Visualization and Interactive Dashboards <br>
 
